@@ -1,38 +1,36 @@
-<svg viewBox="0 0 1000 462" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Four projects: memvet, venture-signal, nim-gke, and nimble-oke. Links and receipts follow in text.">
+<svg viewBox="0 0 640 662" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Four projects: memvet, venture-signal, nim-gke, and nimble-oke. Links and receipts follow in text.">
 <style>.mono{font-family:"IBM Plex Mono", ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, monospace} .sans{font-family:"Avenir Next", Inter, "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif} .f{opacity:0;animation:f .7s ease forwards} @keyframes f{to{opacity:1}} .d1{animation-delay:.15s} .d2{animation-delay:.3s} .d3{animation-delay:.45s} @media (prefers-reduced-motion: reduce){.f{animation:none;opacity:1}}</style>
-<rect width="1000" height="462" rx="6" fill="#FCFBF9"/>
-<text x="48" y="68" font-size="44" fill="#D2CCC3" class="mono">03</text>
-<text x="122" y="58" font-size="13" fill="#1E5468" class="mono" letter-spacing="5">PROJECTS</text>
-<text x="952" y="58" font-size="11" fill="#6A625A" class="mono" text-anchor="end" letter-spacing="2">~/03-projects</text>
-<line x1="48" y1="86" x2="952" y2="86" stroke="#D2CCC3"/>
-<rect x="48" y="110" width="440" height="152" rx="4" fill="#EBE6DD" stroke="#D2CCC3"/>
-<rect x="48" y="110" width="4" height="152" fill="#8A681E"/>
-<text x="68" y="142" font-size="17" fill="#2B2926" class="mono">memvet</text>
-<text x="472" y="142" font-size="11" fill="#6A625A" class="mono" text-anchor="end" letter-spacing="2">GO</text>
-<text x="68" y="170" font-size="12.5" fill="#6A625A" class="mono">go vet for file-based AI agent state: integrity</text>
-<text x="68" y="189" font-size="12.5" fill="#6A625A" class="mono">checks for memory, instructions, decisions, and</text>
-<text x="68" y="208" font-size="12.5" fill="#6A625A" class="mono">contracts.</text>
-<text x="68" y="246" font-size="11.5" fill="#8A681E" class="mono">v0.12.0 · read-only check · MIT</text>
-<rect x="512" y="110" width="440" height="152" rx="4" fill="#EBE6DD" stroke="#D2CCC3"/>
-<rect x="512" y="110" width="4" height="152" fill="#557459"/>
-<text x="532" y="142" font-size="17" fill="#2B2926" class="mono">venture-signal</text>
-<text x="936" y="142" font-size="11" fill="#6A625A" class="mono" text-anchor="end" letter-spacing="2">TYPESCRIPT</text>
-<text x="532" y="170" font-size="12.5" fill="#6A625A" class="mono">Local-first decision lab for pressure-testing</text>
-<text x="532" y="189" font-size="12.5" fill="#6A625A" class="mono">business ideas: attractiveness kept separate from</text>
-<text x="532" y="208" font-size="12.5" fill="#6A625A" class="mono">evidence strength.</text>
-<text x="532" y="246" font-size="11.5" fill="#557459" class="mono">local-first · runs on your machine</text>
-<rect x="48" y="282" width="440" height="152" rx="4" fill="#EBE6DD" stroke="#D2CCC3"/>
-<rect x="48" y="282" width="4" height="152" fill="#1E5468"/>
-<text x="68" y="314" font-size="17" fill="#2B2926" class="mono">nim-gke</text>
-<text x="472" y="314" font-size="11" fill="#6A625A" class="mono" text-anchor="end" letter-spacing="2">SHELL</text>
-<text x="68" y="342" font-size="12.5" fill="#6A625A" class="mono">NVIDIA NIM on Google Kubernetes Engine via Helm,</text>
-<text x="68" y="361" font-size="12.5" fill="#6A625A" class="mono">with cost tracking and confirmed cleanup.</text>
-<text x="68" y="418" font-size="11.5" fill="#1E5468" class="mono">GPU node autoscaling 0→1→0 on one L4, measured once</text>
-<rect x="512" y="282" width="440" height="152" rx="4" fill="#EBE6DD" stroke="#D2CCC3"/>
-<rect x="512" y="282" width="4" height="152" fill="#1E5468"/>
-<text x="532" y="314" font-size="17" fill="#2B2926" class="mono">nimble-oke</text>
-<text x="936" y="314" font-size="11" fill="#6A625A" class="mono" text-anchor="end" letter-spacing="2">SHELL</text>
-<text x="532" y="342" font-size="12.5" fill="#6A625A" class="mono">NVIDIA NIM on Oracle Kubernetes Engine via Helm,</text>
-<text x="532" y="361" font-size="12.5" fill="#6A625A" class="mono">with cost tracking and confirmed cleanup.</text>
-<text x="532" y="418" font-size="11.5" fill="#1E5468" class="mono">GPU node autoscaling 0→1→0 on one A10, measured once</text>
+<rect width="640" height="662" rx="6" fill="#FCFBF9"/>
+<text x="32" y="60" font-size="38" fill="#D2CCC3" class="mono">03</text>
+<text x="94" y="52" font-size="13" fill="#1E5468" class="mono" letter-spacing="4">PROJECTS</text>
+<text x="608" y="52" font-size="11.5" fill="#6A625A" class="mono" text-anchor="end" letter-spacing="1">~/03-projects</text>
+<line x1="32" y1="78" x2="608" y2="78" stroke="#D2CCC3"/>
+<rect x="32" y="100" width="576" height="124" rx="4" fill="#EBE6DD" stroke="#D2CCC3"/>
+<rect x="32" y="100" width="4" height="124" fill="#8A681E"/>
+<text x="52" y="132" font-size="17" fill="#2B2926" class="mono">memvet</text>
+<text x="592" y="132" font-size="11.5" fill="#6A625A" class="mono" text-anchor="end" letter-spacing="2">GO</text>
+<text x="52" y="158" font-size="13" fill="#6A625A" class="mono">go vet for file-based AI agent state: integrity checks for memory,</text>
+<text x="52" y="177" font-size="13" fill="#6A625A" class="mono">instructions, decisions, and contracts.</text>
+<text x="52" y="210" font-size="12" fill="#8A681E" class="mono">v0.12.0 · read-only check · MIT</text>
+<rect x="32" y="238" width="576" height="124" rx="4" fill="#EBE6DD" stroke="#D2CCC3"/>
+<rect x="32" y="238" width="4" height="124" fill="#557459"/>
+<text x="52" y="270" font-size="17" fill="#2B2926" class="mono">venture-signal</text>
+<text x="592" y="270" font-size="11.5" fill="#6A625A" class="mono" text-anchor="end" letter-spacing="2">TYPESCRIPT</text>
+<text x="52" y="296" font-size="13" fill="#6A625A" class="mono">Local-first decision lab for pressure-testing business ideas:</text>
+<text x="52" y="315" font-size="13" fill="#6A625A" class="mono">attractiveness kept separate from evidence strength.</text>
+<text x="52" y="348" font-size="12" fill="#557459" class="mono">local-first · runs on your machine</text>
+<rect x="32" y="376" width="576" height="124" rx="4" fill="#EBE6DD" stroke="#D2CCC3"/>
+<rect x="32" y="376" width="4" height="124" fill="#1E5468"/>
+<text x="52" y="408" font-size="17" fill="#2B2926" class="mono">nim-gke</text>
+<text x="592" y="408" font-size="11.5" fill="#6A625A" class="mono" text-anchor="end" letter-spacing="2">SHELL</text>
+<text x="52" y="434" font-size="13" fill="#6A625A" class="mono">NVIDIA NIM on Google Kubernetes Engine via Helm, with cost</text>
+<text x="52" y="453" font-size="13" fill="#6A625A" class="mono">tracking and confirmed cleanup.</text>
+<text x="52" y="486" font-size="12" fill="#1E5468" class="mono">GPU node autoscaling 0→1→0 on one L4, measured once</text>
+<rect x="32" y="514" width="576" height="124" rx="4" fill="#EBE6DD" stroke="#D2CCC3"/>
+<rect x="32" y="514" width="4" height="124" fill="#1E5468"/>
+<text x="52" y="546" font-size="17" fill="#2B2926" class="mono">nimble-oke</text>
+<text x="592" y="546" font-size="11.5" fill="#6A625A" class="mono" text-anchor="end" letter-spacing="2">SHELL</text>
+<text x="52" y="572" font-size="13" fill="#6A625A" class="mono">NVIDIA NIM on Oracle Kubernetes Engine via Helm, with cost</text>
+<text x="52" y="591" font-size="13" fill="#6A625A" class="mono">tracking and confirmed cleanup.</text>
+<text x="52" y="624" font-size="12" fill="#1E5468" class="mono">GPU node autoscaling 0→1→0 on one A10, measured once</text>
 </svg>

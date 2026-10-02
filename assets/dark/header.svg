@@ -1,16 +1,17 @@
-<svg viewBox="0 0 1000 376" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Frank Besch, Austin, Texas. I lead, I sell, and I build.">
+<svg viewBox="0 0 640 354" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Frank Besch, Austin, Texas. I lead, I sell, and I build.">
 <style>.mono{font-family:"IBM Plex Mono", ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, monospace} .sans{font-family:"Avenir Next", Inter, "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif} .f{opacity:0;animation:f .7s ease forwards} @keyframes f{to{opacity:1}} .d1{animation-delay:.15s} .d2{animation-delay:.3s} .d3{animation-delay:.45s} @media (prefers-reduced-motion: reduce){.f{animation:none;opacity:1}}</style>
-<rect width="1000" height="376" rx="6" fill="#0E1C2B"/>
-<rect x="48" y="0" width="56" height="10" fill="#CFA24E"/>
-<text x="48" y="52" font-size="11" fill="#A8A296" class="mono" letter-spacing="3.5">GITHUB — INDEX</text>
-<text x="952" y="52" font-size="11" fill="#A8A296" class="mono" text-anchor="end" letter-spacing="3.5">AUSTIN, TEXAS</text>
-<line x1="48" y1="66" x2="952" y2="66" stroke="#2D4152"/>
-<text x="46" y="166" font-size="68" fill="#E8E2D6" class="sans f" letter-spacing="-1.5" font-weight="600">Frank Besch</text>
-<text x="48" y="204" font-size="19" fill="#A8A296" class="mono f d1">I lead, I sell, and I build.</text>
-<text x="48" y="258" font-size="12.5" fill="#A8A296" class="mono f d2" letter-spacing="1">builds  ▸</text>
-<text x="140" y="258" font-size="12.5" fill="#E8E2D6" class="mono f d2" letter-spacing="0.5">multi-agent AI with persistent memory, LLM eval and drift harnesses, NVIDIA</text>
-<text x="140" y="280" font-size="12.5" fill="#E8E2D6" class="mono f d2" letter-spacing="0.5">NIM on Kubernetes, in Go, Python, and Swift.</text>
-<line x1="48" y1="318" x2="952" y2="318" stroke="#2D4152"/>
-<text x="48" y="348" font-size="11.5" fill="#A8A296" class="mono f d3" letter-spacing="3">GO  ·  TYPESCRIPT  ·  PYTHON  ·  SWIFT</text>
-<text x="952" y="348" font-size="11" fill="#A8A296" class="mono f d3" text-anchor="end" letter-spacing="1">v1.0 · 2026-10-02</text>
+<rect width="640" height="354" rx="6" fill="#0E1C2B"/>
+<rect x="32" y="0" width="48" height="9" fill="#CFA24E"/>
+<text x="32" y="46" font-size="11.5" fill="#A8A296" class="mono" letter-spacing="3">GITHUB — INDEX</text>
+<text x="608" y="46" font-size="11.5" fill="#A8A296" class="mono" text-anchor="end" letter-spacing="3">AUSTIN, TEXAS</text>
+<line x1="32" y1="60" x2="608" y2="60" stroke="#2D4152"/>
+<text x="30" y="142" font-size="58" fill="#E8E2D6" class="sans f" letter-spacing="-1.2" font-weight="600">Frank Besch</text>
+<text x="32" y="178" font-size="17" fill="#A8A296" class="mono f d1">I lead, I sell, and I build.</text>
+<text x="32" y="226" font-size="13" fill="#A8A296" class="mono f d2" letter-spacing="1">builds  ▸</text>
+<text x="124" y="226" font-size="13" fill="#E8E2D6" class="mono f d2" letter-spacing="0.4">multi-agent AI with persistent memory, LLM eval and</text>
+<text x="124" y="248" font-size="13" fill="#E8E2D6" class="mono f d2" letter-spacing="0.4">drift harnesses, NVIDIA NIM on Kubernetes, in Go,</text>
+<text x="124" y="270" font-size="13" fill="#E8E2D6" class="mono f d2" letter-spacing="0.4">Python, and Swift.</text>
+<line x1="32" y1="298" x2="608" y2="298" stroke="#2D4152"/>
+<text x="32" y="328" font-size="11.5" fill="#A8A296" class="mono f d3" letter-spacing="2.5">GO · TYPESCRIPT · PYTHON · SWIFT</text>
+<text x="608" y="328" font-size="11.5" fill="#A8A296" class="mono f d3" text-anchor="end" letter-spacing="0.5">v1.1 · 2026-10-02</text>
 </svg>

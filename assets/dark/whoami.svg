@@ -1,14 +1,17 @@
-<svg viewBox="0 0 1000 302" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Who I am: I lead, I sell, and I build. Recent hands-on work includes multi-agent AI systems with persistent memory, LLM evaluation and drift-testing harnesses, and governed demo pipelines, written in Go, Python, and Swift, plus NVIDIA NIM deployed on Kubernetes. In a pursuit, that lets me shape the solution with the delivery team and pressure-test it before an operator&#x27;s CIO does. I decide where model judgment ends and deterministic code takes over, then back it with paired evals and a cost model before the client commits.">
+<svg viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Who I am: I lead, I sell, and I build. Recent hands-on work includes multi-agent AI systems with persistent memory, LLM evaluation and drift-testing harnesses, and governed demo pipelines, written in Go, Python, and Swift, plus NVIDIA NIM deployed on Kubernetes. In a pursuit, that lets me shape the solution with the delivery team and pressure-test it before an operator&#x27;s CIO does. I decide where model judgment ends and deterministic code takes over, then back it with paired evals and a cost model before the client commits.">
 <style>.mono{font-family:"IBM Plex Mono", ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, monospace} .sans{font-family:"Avenir Next", Inter, "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif} .f{opacity:0;animation:f .7s ease forwards} @keyframes f{to{opacity:1}} .d1{animation-delay:.15s} .d2{animation-delay:.3s} .d3{animation-delay:.45s} @media (prefers-reduced-motion: reduce){.f{animation:none;opacity:1}}</style>
-<rect width="1000" height="302" rx="6" fill="#0E1C2B"/>
-<text x="48" y="68" font-size="44" fill="#2D4152" class="mono">01</text>
-<text x="122" y="58" font-size="13" fill="#8CBFD3" class="mono" letter-spacing="5">WHOAMI</text>
-<text x="952" y="58" font-size="11" fill="#A8A296" class="mono" text-anchor="end" letter-spacing="2">~/01-whoami</text>
-<line x1="48" y1="86" x2="952" y2="86" stroke="#2D4152"/>
-<text x="48" y="126" font-size="15" fill="#E8E2D6" class="mono f">I lead, I sell, and I build. Recent hands-on work includes multi-agent AI systems with</text>
-<text x="48" y="153" font-size="15" fill="#E8E2D6" class="mono f">persistent memory, LLM evaluation and drift-testing harnesses, and governed demo pipelines,</text>
-<text x="48" y="180" font-size="15" fill="#E8E2D6" class="mono f">written in Go, Python, and Swift, plus NVIDIA NIM deployed on Kubernetes. In a pursuit, that</text>
-<text x="48" y="207" font-size="15" fill="#E8E2D6" class="mono f">lets me shape the solution with the delivery team and pressure-test it before an operator&#x27;s</text>
-<text x="48" y="234" font-size="15" fill="#E8E2D6" class="mono f">CIO does. I decide where model judgment ends and deterministic code takes over, then back it</text>
-<text x="48" y="261" font-size="15" fill="#E8E2D6" class="mono f">with paired evals and a cost model before the client commits.</text>
+<rect width="640" height="360" rx="6" fill="#0E1C2B"/>
+<text x="32" y="60" font-size="38" fill="#2D4152" class="mono">01</text>
+<text x="94" y="52" font-size="13" fill="#8CBFD3" class="mono" letter-spacing="4">WHOAMI</text>
+<text x="608" y="52" font-size="11.5" fill="#A8A296" class="mono" text-anchor="end" letter-spacing="1">~/01-whoami</text>
+<line x1="32" y1="78" x2="608" y2="78" stroke="#2D4152"/>
+<text x="32" y="116" font-size="15" fill="#E8E2D6" class="mono f">I lead, I sell, and I build. Recent hands-on work includes</text>
+<text x="32" y="142" font-size="15" fill="#E8E2D6" class="mono f">multi-agent AI systems with persistent memory, LLM evaluation</text>
+<text x="32" y="168" font-size="15" fill="#E8E2D6" class="mono f">and drift-testing harnesses, and governed demo pipelines,</text>
+<text x="32" y="194" font-size="15" fill="#E8E2D6" class="mono f">written in Go, Python, and Swift, plus NVIDIA NIM deployed on</text>
+<text x="32" y="220" font-size="15" fill="#E8E2D6" class="mono f">Kubernetes. In a pursuit, that lets me shape the solution with</text>
+<text x="32" y="246" font-size="15" fill="#E8E2D6" class="mono f">the delivery team and pressure-test it before an operator&#x27;s</text>
+<text x="32" y="272" font-size="15" fill="#E8E2D6" class="mono f">CIO does. I decide where model judgment ends and deterministic</text>
+<text x="32" y="298" font-size="15" fill="#E8E2D6" class="mono f">code takes over, then back it with paired evals and a cost</text>
+<text x="32" y="324" font-size="15" fill="#E8E2D6" class="mono f">model before the client commits.</text>
 </svg>
