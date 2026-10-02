@@ -1,23 +1,24 @@
-<svg viewBox="0 0 360 332" xmlns="http://www.w3.org/2000/svg" role="img" font-family='ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, monospace'>
+<svg viewBox="0 0 360 384" xmlns="http://www.w3.org/2000/svg" role="img" font-family='ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, monospace'>
 <title>Who I am</title>
 <desc>Who I am: I lead, I sell, and I build. Recent hands-on work includes multi-agent AI systems with persistent memory, LLM evaluation and drift-testing harnesses, and governed demo pipelines, written in Go, Python, and Swift, plus NVIDIA NIM deployed on Kubernetes. In a pursuit, that lets me shape the solution with the delivery team and pressure-test it before an operator&#x27;s CIO does. I decide where model judgment ends and deterministic code takes over, then back it with paired evals and a cost model before the client commits.</desc>
-<rect width="360" height="332" rx="6" fill="#FCFBF9"/>
+<rect width="360" height="384" rx="6" fill="#FCFBF9"/>
 <text x="16" y="36" font-size="26" fill="#D2CCC3">01</text>
 <text x="58" y="32" font-size="12" fill="#1E5468" letter-spacing="1.5">WHOAMI</text>
 <text x="344" y="32" font-size="12" fill="#6A625A" text-anchor="end">~/01-whoami</text>
 <line x1="16" y1="50" x2="344" y2="50" stroke="#D2CCC3"/>
-<text x="16" y="78" font-size="13" fill="#2B2926">I lead, I sell, and I build. Recent</text>
-<text x="16" y="96" font-size="13" fill="#2B2926">hands-on work includes multi-agent AI</text>
-<text x="16" y="114" font-size="13" fill="#2B2926">systems with persistent memory, LLM</text>
-<text x="16" y="132" font-size="13" fill="#2B2926">evaluation and drift-testing harnesses,</text>
-<text x="16" y="150" font-size="13" fill="#2B2926">and governed demo pipelines, written in</text>
-<text x="16" y="168" font-size="13" fill="#2B2926">Go, Python, and Swift, plus NVIDIA NIM</text>
-<text x="16" y="186" font-size="13" fill="#2B2926">deployed on Kubernetes. In a pursuit, that</text>
-<text x="16" y="204" font-size="13" fill="#2B2926">lets me shape the solution with the</text>
-<text x="16" y="222" font-size="13" fill="#2B2926">delivery team and pressure-test it before</text>
-<text x="16" y="240" font-size="13" fill="#2B2926">an operator&#x27;s CIO does. I decide where</text>
-<text x="16" y="258" font-size="13" fill="#2B2926">model judgment ends and deterministic code</text>
-<text x="16" y="276" font-size="13" fill="#2B2926">takes over, then back it with paired evals</text>
-<text x="16" y="294" font-size="13" fill="#2B2926">and a cost model before the client</text>
-<text x="16" y="312" font-size="13" fill="#2B2926">commits.</text>
+<text x="16" y="78" font-size="15" fill="#2B2926">I lead, I sell, and I build. Recent</text>
+<text x="16" y="98" font-size="15" fill="#2B2926">hands-on work includes multi-agent</text>
+<text x="16" y="118" font-size="15" fill="#2B2926">AI systems with persistent memory,</text>
+<text x="16" y="138" font-size="15" fill="#2B2926">LLM evaluation and drift-testing</text>
+<text x="16" y="158" font-size="15" fill="#2B2926">harnesses, and governed demo</text>
+<text x="16" y="178" font-size="15" fill="#2B2926">pipelines, written in Go, Python,</text>
+<text x="16" y="198" font-size="15" fill="#2B2926">and Swift, plus NVIDIA NIM deployed</text>
+<text x="16" y="218" font-size="15" fill="#2B2926">on Kubernetes. In a pursuit, that</text>
+<text x="16" y="238" font-size="15" fill="#2B2926">lets me shape the solution with the</text>
+<text x="16" y="258" font-size="15" fill="#2B2926">delivery team and pressure-test it</text>
+<text x="16" y="278" font-size="15" fill="#2B2926">before an operator&#x27;s CIO does. I</text>
+<text x="16" y="298" font-size="15" fill="#2B2926">decide where model judgment ends and</text>
+<text x="16" y="318" font-size="15" fill="#2B2926">deterministic code takes over, then</text>
+<text x="16" y="338" font-size="15" fill="#2B2926">back it with paired evals and a cost</text>
+<text x="16" y="358" font-size="15" fill="#2B2926">model before the client commits.</text>
 </svg>
