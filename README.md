@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"/><img src="assets/header.svg" alt="Frank Besch, builder and seller, Austin, Texas. Recent builds: multi-agent AI with persistent memory, LLM eval and drift harnesses, NVIDIA NIM on Kubernetes, in Go, Python, and Swift."/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"/><img src="assets/header.svg" alt="Frank Besch, Austin, Texas. I lead, I sell, and I build. Recent builds: multi-agent AI with persistent memory, LLM eval and drift harnesses, NVIDIA NIM on Kubernetes, in Go, Python, and Swift."/></picture>
 
 [LinkedIn](https://www.linkedin.com/in/frankbesch/) · [Substack](https://frankbesch.substack.com) · [memvet](https://github.com/frankbesch/memvet) · [nim-gke](https://github.com/frankbesch/nim-gke) · [nimble-oke](https://github.com/frankbesch/nimble-oke) · [venture-signal](https://github.com/frankbesch/venture-signal)
 
