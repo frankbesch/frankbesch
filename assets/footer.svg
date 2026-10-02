@@ -1,8 +1,10 @@
-<svg viewBox="0 0 640 92" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Each measured claim on this page links to its receipt.">
-<style>.mono{font-family:"IBM Plex Mono", ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, monospace} .sans{font-family:"Avenir Next", Inter, "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif} .f{opacity:0;animation:f .7s ease forwards} @keyframes f{to{opacity:1}} .d1{animation-delay:.15s} .d2{animation-delay:.3s} .d3{animation-delay:.45s} @media (prefers-reduced-motion: reduce){.f{animation:none;opacity:1}}</style>
-<rect width="640" height="92" rx="6" fill="#FCFBF9"/>
-<line x1="32" y1="24" x2="608" y2="24" stroke="#D2CCC3"/>
-<rect x="32" y="42" width="28" height="6" fill="#A57C2C"/>
-<text x="74" y="50" font-size="12" fill="#6A625A" class="mono">Each measured claim on this page links to its receipt.</text>
-<text x="74" y="72" font-size="11.5" fill="#6A625A" class="mono" letter-spacing="0.5">v1.1 · 2026-10-02</text>
+<svg viewBox="0 0 360 90" xmlns="http://www.w3.org/2000/svg" role="img" font-family='ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, monospace'>
+<title>Each measured claim on this page links to its receipt.</title>
+<desc>Footer: each measured claim on this page links to its receipt. v1.2 · 2026-10-02</desc>
+<rect width="360" height="90" rx="6" fill="#FCFBF9"/>
+<line x1="16" y1="14" x2="344" y2="14" stroke="#D2CCC3"/>
+<rect x="16.0" y="30" width="24.0" height="5" rx="0" fill="#A57C2C"/>
+<text x="52" y="38" font-size="12" fill="#6A625A">Each measured claim on this page links</text>
+<text x="52" y="55" font-size="12" fill="#6A625A">to its receipt.</text>
+<text x="52" y="74" font-size="12" fill="#6A625A">v1.2 · 2026-10-02</text>
 </svg>

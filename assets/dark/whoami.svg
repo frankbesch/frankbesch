@@ -1,17 +1,23 @@
-<svg viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Who I am: I lead, I sell, and I build. Recent hands-on work includes multi-agent AI systems with persistent memory, LLM evaluation and drift-testing harnesses, and governed demo pipelines, written in Go, Python, and Swift, plus NVIDIA NIM deployed on Kubernetes. In a pursuit, that lets me shape the solution with the delivery team and pressure-test it before an operator&#x27;s CIO does. I decide where model judgment ends and deterministic code takes over, then back it with paired evals and a cost model before the client commits.">
-<style>.mono{font-family:"IBM Plex Mono", ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, monospace} .sans{font-family:"Avenir Next", Inter, "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif} .f{opacity:0;animation:f .7s ease forwards} @keyframes f{to{opacity:1}} .d1{animation-delay:.15s} .d2{animation-delay:.3s} .d3{animation-delay:.45s} @media (prefers-reduced-motion: reduce){.f{animation:none;opacity:1}}</style>
-<rect width="640" height="360" rx="6" fill="#0E1C2B"/>
-<text x="32" y="60" font-size="38" fill="#2D4152" class="mono">01</text>
-<text x="94" y="52" font-size="13" fill="#8CBFD3" class="mono" letter-spacing="4">WHOAMI</text>
-<text x="608" y="52" font-size="11.5" fill="#A8A296" class="mono" text-anchor="end" letter-spacing="1">~/01-whoami</text>
-<line x1="32" y1="78" x2="608" y2="78" stroke="#2D4152"/>
-<text x="32" y="116" font-size="15" fill="#E8E2D6" class="mono f">I lead, I sell, and I build. Recent hands-on work includes</text>
-<text x="32" y="142" font-size="15" fill="#E8E2D6" class="mono f">multi-agent AI systems with persistent memory, LLM evaluation</text>
-<text x="32" y="168" font-size="15" fill="#E8E2D6" class="mono f">and drift-testing harnesses, and governed demo pipelines,</text>
-<text x="32" y="194" font-size="15" fill="#E8E2D6" class="mono f">written in Go, Python, and Swift, plus NVIDIA NIM deployed on</text>
-<text x="32" y="220" font-size="15" fill="#E8E2D6" class="mono f">Kubernetes. In a pursuit, that lets me shape the solution with</text>
-<text x="32" y="246" font-size="15" fill="#E8E2D6" class="mono f">the delivery team and pressure-test it before an operator&#x27;s</text>
-<text x="32" y="272" font-size="15" fill="#E8E2D6" class="mono f">CIO does. I decide where model judgment ends and deterministic</text>
-<text x="32" y="298" font-size="15" fill="#E8E2D6" class="mono f">code takes over, then back it with paired evals and a cost</text>
-<text x="32" y="324" font-size="15" fill="#E8E2D6" class="mono f">model before the client commits.</text>
+<svg viewBox="0 0 360 332" xmlns="http://www.w3.org/2000/svg" role="img" font-family='ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, monospace'>
+<title>Who I am</title>
+<desc>Who I am: I lead, I sell, and I build. Recent hands-on work includes multi-agent AI systems with persistent memory, LLM evaluation and drift-testing harnesses, and governed demo pipelines, written in Go, Python, and Swift, plus NVIDIA NIM deployed on Kubernetes. In a pursuit, that lets me shape the solution with the delivery team and pressure-test it before an operator&#x27;s CIO does. I decide where model judgment ends and deterministic code takes over, then back it with paired evals and a cost model before the client commits.</desc>
+<rect width="360" height="332" rx="6" fill="#0E1C2B"/>
+<text x="16" y="36" font-size="26" fill="#2D4152">01</text>
+<text x="58" y="32" font-size="12" fill="#8CBFD3" letter-spacing="1.5">WHOAMI</text>
+<text x="344" y="32" font-size="12" fill="#A8A296" text-anchor="end">~/01-whoami</text>
+<line x1="16" y1="50" x2="344" y2="50" stroke="#2D4152"/>
+<text x="16" y="78" font-size="13" fill="#E8E2D6">I lead, I sell, and I build. Recent</text>
+<text x="16" y="96" font-size="13" fill="#E8E2D6">hands-on work includes multi-agent AI</text>
+<text x="16" y="114" font-size="13" fill="#E8E2D6">systems with persistent memory, LLM</text>
+<text x="16" y="132" font-size="13" fill="#E8E2D6">evaluation and drift-testing harnesses,</text>
+<text x="16" y="150" font-size="13" fill="#E8E2D6">and governed demo pipelines, written in</text>
+<text x="16" y="168" font-size="13" fill="#E8E2D6">Go, Python, and Swift, plus NVIDIA NIM</text>
+<text x="16" y="186" font-size="13" fill="#E8E2D6">deployed on Kubernetes. In a pursuit, that</text>
+<text x="16" y="204" font-size="13" fill="#E8E2D6">lets me shape the solution with the</text>
+<text x="16" y="222" font-size="13" fill="#E8E2D6">delivery team and pressure-test it before</text>
+<text x="16" y="240" font-size="13" fill="#E8E2D6">an operator&#x27;s CIO does. I decide where</text>
+<text x="16" y="258" font-size="13" fill="#E8E2D6">model judgment ends and deterministic code</text>
+<text x="16" y="276" font-size="13" fill="#E8E2D6">takes over, then back it with paired evals</text>
+<text x="16" y="294" font-size="13" fill="#E8E2D6">and a cost model before the client</text>
+<text x="16" y="312" font-size="13" fill="#E8E2D6">commits.</text>
 </svg>
