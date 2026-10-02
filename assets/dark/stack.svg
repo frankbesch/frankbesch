@@ -1,0 +1,14 @@
+<svg viewBox="0 0 1000 216" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Stack: Go, TypeScript, Python, Swift; NVIDIA NIM, Helm, Kubernetes on GKE and OKE; paired evals, cost models, and run receipts.">
+<style>.mono{font-family:"IBM Plex Mono", ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, monospace} .sans{font-family:"Avenir Next", Inter, "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif} .f{opacity:0;animation:f .7s ease forwards} @keyframes f{to{opacity:1}} .d1{animation-delay:.15s} .d2{animation-delay:.3s} .d3{animation-delay:.45s} @media (prefers-reduced-motion: reduce){.f{animation:none;opacity:1}}</style>
+<rect width="1000" height="216" rx="6" fill="#0E1C2B"/>
+<text x="48" y="68" font-size="44" fill="#2D4152" class="mono">04</text>
+<text x="122" y="58" font-size="13" fill="#8CBFD3" class="mono" letter-spacing="5">STACK</text>
+<text x="952" y="58" font-size="11" fill="#A8A296" class="mono" text-anchor="end" letter-spacing="2">~/04-stack</text>
+<line x1="48" y1="86" x2="952" y2="86" stroke="#2D4152"/>
+<text x="48" y="126" font-size="13" fill="#A8A296" class="mono" letter-spacing="1">languages  ▸</text>
+<text x="190" y="126" font-size="13" fill="#E8E2D6" class="mono" letter-spacing="0.5">Go · TypeScript · Python · Swift</text>
+<text x="48" y="156" font-size="13" fill="#A8A296" class="mono" letter-spacing="1">inference  ▸</text>
+<text x="190" y="156" font-size="13" fill="#E8E2D6" class="mono" letter-spacing="0.5">NVIDIA NIM · Helm · Kubernetes on GKE and OKE</text>
+<text x="48" y="186" font-size="13" fill="#A8A296" class="mono" letter-spacing="1">method  ▸</text>
+<text x="190" y="186" font-size="13" fill="#E8E2D6" class="mono" letter-spacing="0.5">paired evals · cost models · run receipts</text>
+</svg>

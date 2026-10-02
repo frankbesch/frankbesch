@@ -1,0 +1,16 @@
+<svg viewBox="0 0 1000 376" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Frank Besch, builder and seller, Austin, Texas.">
+<style>.mono{font-family:"IBM Plex Mono", ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, monospace} .sans{font-family:"Avenir Next", Inter, "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif} .f{opacity:0;animation:f .7s ease forwards} @keyframes f{to{opacity:1}} .d1{animation-delay:.15s} .d2{animation-delay:.3s} .d3{animation-delay:.45s} @media (prefers-reduced-motion: reduce){.f{animation:none;opacity:1}}</style>
+<rect width="1000" height="376" rx="6" fill="#FCFBF9"/>
+<rect x="48" y="0" width="56" height="10" fill="#A57C2C"/>
+<text x="48" y="52" font-size="11" fill="#6A625A" class="mono" letter-spacing="3.5">GITHUB — INDEX</text>
+<text x="952" y="52" font-size="11" fill="#6A625A" class="mono" text-anchor="end" letter-spacing="3.5">AUSTIN, TEXAS</text>
+<line x1="48" y1="66" x2="952" y2="66" stroke="#D2CCC3"/>
+<text x="46" y="166" font-size="68" fill="#2B2926" class="sans f" letter-spacing="-1.5" font-weight="600">Frank Besch</text>
+<text x="48" y="204" font-size="19" fill="#6A625A" class="mono f d1">Builder and seller.</text>
+<text x="48" y="258" font-size="12.5" fill="#6A625A" class="mono f d2" letter-spacing="1">builds  ▸</text>
+<text x="140" y="258" font-size="12.5" fill="#2B2926" class="mono f d2" letter-spacing="0.5">multi-agent AI with persistent memory, LLM eval and drift harnesses, NVIDIA</text>
+<text x="140" y="280" font-size="12.5" fill="#2B2926" class="mono f d2" letter-spacing="0.5">NIM on Kubernetes, in Go, Python, and Swift.</text>
+<line x1="48" y1="318" x2="952" y2="318" stroke="#D2CCC3"/>
+<text x="48" y="348" font-size="11.5" fill="#6A625A" class="mono f d3" letter-spacing="3">GO  ·  TYPESCRIPT  ·  PYTHON  ·  SWIFT</text>
+<text x="952" y="348" font-size="11" fill="#6A625A" class="mono f d3" text-anchor="end" letter-spacing="1">v1.0 · 2026-10-02</text>
+</svg>

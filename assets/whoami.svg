@@ -1,0 +1,13 @@
+<svg viewBox="0 0 1000 275" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Who I am: I&#x27;m technical and hands-on: recent builds include multi-agent AI systems with persistent memory, LLM evaluation and drift-testing harnesses, and governed demo pipelines, written in Go, Python, and Swift, plus NVIDIA NIM deployed on Kubernetes. I design where model judgment ends and deterministic code takes over, then prove it with paired evals and cost models before a buyer commits.">
+<style>.mono{font-family:"IBM Plex Mono", ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, monospace} .sans{font-family:"Avenir Next", Inter, "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif} .f{opacity:0;animation:f .7s ease forwards} @keyframes f{to{opacity:1}} .d1{animation-delay:.15s} .d2{animation-delay:.3s} .d3{animation-delay:.45s} @media (prefers-reduced-motion: reduce){.f{animation:none;opacity:1}}</style>
+<rect width="1000" height="275" rx="6" fill="#FCFBF9"/>
+<text x="48" y="68" font-size="44" fill="#D2CCC3" class="mono">01</text>
+<text x="122" y="58" font-size="13" fill="#1E5468" class="mono" letter-spacing="5">WHOAMI</text>
+<text x="952" y="58" font-size="11" fill="#6A625A" class="mono" text-anchor="end" letter-spacing="2">~/01-whoami</text>
+<line x1="48" y1="86" x2="952" y2="86" stroke="#D2CCC3"/>
+<text x="48" y="126" font-size="15" fill="#2B2926" class="mono f">I&#x27;m technical and hands-on: recent builds include multi-agent AI systems with persistent</text>
+<text x="48" y="153" font-size="15" fill="#2B2926" class="mono f">memory, LLM evaluation and drift-testing harnesses, and governed demo pipelines, written in</text>
+<text x="48" y="180" font-size="15" fill="#2B2926" class="mono f">Go, Python, and Swift, plus NVIDIA NIM deployed on Kubernetes. I design where model judgment</text>
+<text x="48" y="207" font-size="15" fill="#2B2926" class="mono f">ends and deterministic code takes over, then prove it with paired evals and cost models</text>
+<text x="48" y="234" font-size="15" fill="#2B2926" class="mono f">before a buyer commits.</text>
+</svg>
