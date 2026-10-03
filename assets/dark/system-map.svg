@@ -1,34 +1,35 @@
-<svg viewBox="0 0 360 622" xmlns="http://www.w3.org/2000/svg" role="img" font-family='ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, monospace'>
+<svg viewBox="0 0 360 658" xmlns="http://www.w3.org/2000/svg" role="img" font-family='"QuoinMono", ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, monospace'>
 <title>System map</title>
 <desc>System map: memvet and its Homebrew tap; nim-gke and nimble-oke, the same NVIDIA NIM kit on two clouds; venture-signal, a decision lab.</desc>
-<rect width="360" height="622" rx="6" fill="#0E1C2B"/>
-<text x="16" y="36" font-size="26" fill="#2D4152">02</text>
-<text x="58" y="32" font-size="12" fill="#8CBFD3" letter-spacing="1.5">SYSTEM MAP</text>
-<text x="344" y="32" font-size="12" fill="#A8A296" text-anchor="end">~/02-system-map</text>
+<style>@font-face{font-family:"QuoinMono";font-weight:400;src:url(data:font/woff2;base64,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) format("woff2")}@font-face{font-family:"QuoinMono";font-weight:600;src:url(data:font/woff2;base64,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) format("woff2")}</style>
+<rect width="360" height="658" rx="6" fill="#0E1C2B"/>
+<text x="16" y="36" font-size="26" fill="#A8A296">02</text>
+<text x="58" y="32" font-size="13" fill="#E8E2D6" letter-spacing="1.5">SYSTEM MAP</text>
+<text x="344" y="32" font-size="13" fill="#A8A296" text-anchor="end">~/02-system-map</text>
 <line x1="16" y1="50" x2="344" y2="50" stroke="#2D4152"/>
 <rect x="16" y="68" width="4" height="11" fill="#D3AA55"/>
-<text x="28" y="78" font-size="12" fill="#D3AA55" letter-spacing="1.5">AGENT STATE INTEGRITY</text>
-<rect x="16" y="90" width="328" height="56" rx="4" fill="#19293B" stroke="#2D4152"/>
-<text x="28" y="112" font-size="13" fill="#E8E2D6" font-weight="600">memvet</text>
-<text x="28" y="130" font-size="12" fill="#A8A296">integrity checks for agent memory</text>
-<line x1="36" y1="146" x2="36" y2="186" stroke="#A8A296" stroke-dasharray="3 4"/>
-<text x="48" y="170" font-size="12" fill="#A8A296">installed by</text>
-<rect x="16" y="186" width="328" height="56" rx="4" fill="#19293B" stroke="#2D4152"/>
-<text x="28" y="208" font-size="13" fill="#E8E2D6" font-weight="600">homebrew-tap</text>
-<text x="28" y="226" font-size="12" fill="#A8A296">brew install frankbesch/tap/memvet</text>
-<rect x="16" y="298" width="4" height="11" fill="#8CBFD3"/>
-<text x="28" y="308" font-size="12" fill="#8CBFD3" letter-spacing="1.5">GPU INFERENCE KITS</text>
-<rect x="16" y="320" width="328" height="56" rx="4" fill="#19293B" stroke="#2D4152"/>
-<text x="28" y="342" font-size="13" fill="#E8E2D6" font-weight="600">nim-gke</text>
-<text x="28" y="360" font-size="12" fill="#A8A296">NVIDIA NIM on GKE · one L4</text>
-<line x1="36" y1="376" x2="36" y2="416" stroke="#A8A296" stroke-dasharray="3 4"/>
-<text x="48" y="400" font-size="12" fill="#A8A296">same kit, second cloud</text>
-<rect x="16" y="416" width="328" height="56" rx="4" fill="#19293B" stroke="#2D4152"/>
-<text x="28" y="438" font-size="13" fill="#E8E2D6" font-weight="600">nimble-oke</text>
-<text x="28" y="456" font-size="12" fill="#A8A296">NVIDIA NIM on OKE · one A10</text>
-<rect x="16" y="528" width="4" height="11" fill="#B7C9B3"/>
-<text x="28" y="538" font-size="12" fill="#B7C9B3" letter-spacing="1.5">DECISION TOOLS</text>
-<rect x="16" y="550" width="328" height="56" rx="4" fill="#19293B" stroke="#2D4152"/>
-<text x="28" y="572" font-size="13" fill="#E8E2D6" font-weight="600">venture-signal</text>
-<text x="28" y="590" font-size="12" fill="#A8A296">pressure-tests business ideas</text>
+<text x="28" y="78" font-size="13" fill="#E8E2D6" letter-spacing="1.5">AGENT STATE INTEGRITY</text>
+<rect x="16" y="90" width="328" height="58" rx="4" fill="#19293B" stroke="#A8A296"/>
+<text x="28" y="112" font-size="14" fill="#E8E2D6" font-weight="600">memvet</text>
+<text x="28" y="131" font-size="13" fill="#A8A296">integrity checks for agent memory</text>
+<line x1="36" y1="148" x2="36" y2="190" stroke="#A8A296" stroke-dasharray="3 4"/>
+<text x="48" y="173" font-size="13" fill="#A8A296">installed by</text>
+<rect x="16" y="190" width="328" height="58" rx="4" fill="#19293B" stroke="#A8A296"/>
+<text x="28" y="212" font-size="14" fill="#E8E2D6" font-weight="600">homebrew-tap</text>
+<text x="28" y="231" font-size="13" fill="#A8A296">brew install frankbesch/tap/memvet</text>
+<rect x="16" y="314" width="4" height="11" fill="#8CBFD3"/>
+<text x="28" y="324" font-size="13" fill="#E8E2D6" letter-spacing="1.5">GPU INFERENCE KITS</text>
+<rect x="16" y="336" width="328" height="58" rx="4" fill="#19293B" stroke="#A8A296"/>
+<text x="28" y="358" font-size="14" fill="#E8E2D6" font-weight="600">nim-gke</text>
+<text x="28" y="377" font-size="13" fill="#A8A296">NVIDIA NIM on GKE · one L4</text>
+<line x1="36" y1="394" x2="36" y2="436" stroke="#A8A296" stroke-dasharray="3 4"/>
+<text x="48" y="419" font-size="13" fill="#A8A296">same kit, second cloud</text>
+<rect x="16" y="436" width="328" height="58" rx="4" fill="#19293B" stroke="#A8A296"/>
+<text x="28" y="458" font-size="14" fill="#E8E2D6" font-weight="600">nimble-oke</text>
+<text x="28" y="477" font-size="13" fill="#A8A296">NVIDIA NIM on OKE · one A10</text>
+<rect x="16" y="560" width="4" height="11" fill="#B7C9B3"/>
+<text x="28" y="570" font-size="13" fill="#E8E2D6" letter-spacing="1.5">DECISION TOOLS</text>
+<rect x="16" y="582" width="328" height="58" rx="4" fill="#19293B" stroke="#A8A296"/>
+<text x="28" y="604" font-size="14" fill="#E8E2D6" font-weight="600">venture-signal</text>
+<text x="28" y="623" font-size="13" fill="#A8A296">pressure-tests business ideas</text>
 </svg>
