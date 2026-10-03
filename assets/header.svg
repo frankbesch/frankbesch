@@ -1,10 +1,10 @@
 <svg viewBox="0 0 360 384" xmlns="http://www.w3.org/2000/svg" role="img" font-family='ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, monospace'>
-<title>Frank Besch, Austin, Texas. I lead, I sell, and I build.</title>
+<title>Frank Besch, Austin and Houston, Texas. I lead, I sell, and I build.</title>
 <desc>Header: name, place, tagline, recent builds: multi-agent AI with persistent memory, LLM eval and drift harnesses, NVIDIA NIM on Kubernetes, in Go, Python, and Swift. Stack: Go · TypeScript · Python · Swift; NVIDIA NIM · Helm · Kubernetes on GKE and OKE; paired evals · cost models · run receipts.</desc>
 <rect width="360" height="384" rx="6" fill="#FCFBF9"/>
 <rect x="16.0" y="0" width="40.0" height="7" rx="0" fill="#A57C2C"/>
 <text x="16" y="32" font-size="12" fill="#6A625A" letter-spacing="1.5">GITHUB — INDEX</text>
-<text x="344" y="32" font-size="12" fill="#6A625A" letter-spacing="1.5" text-anchor="end">AUSTIN, TEXAS</text>
+<text x="344" y="32" font-size="12" fill="#6A625A" letter-spacing="1.5" text-anchor="end">AUSTIN · HOUSTON, TX</text>
 <line x1="16" y1="44" x2="344" y2="44" stroke="#D2CCC3"/>
 <text x="15" y="92" font-size="34" font-weight="600" fill="#2B2926" font-family='"Avenir Next", Inter, "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif' letter-spacing="-0.6">Frank Besch</text>
 <text x="16" y="118" font-size="15" fill="#6A625A">I lead, I sell, and I build.</text>
@@ -23,5 +23,5 @@
 <text x="16" y="320" font-size="12" fill="#6A625A">method  ▸</text>
 <text x="112" y="320" font-size="12" fill="#2B2926">paired evals · cost models · run</text>
 <text x="112" y="337" font-size="12" fill="#2B2926">receipts</text>
-<text x="344" y="368" font-size="12" fill="#6A625A" text-anchor="end">v1.3 · 2026-10-02</text>
+<text x="344" y="368" font-size="12" fill="#6A625A" text-anchor="end">v1.4 · 2026-10-03</text>
 </svg>
