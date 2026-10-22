@@ -14,15 +14,16 @@ paired evals and a cost model before the client commits.
 
 </details>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/system-map.svg"/><img width="400" align="top" src="assets/system-map.svg" alt="System map with three groups. Agents and evals: memvet, installed by homebrew-tap; septdrift; paper-forge-engine. GPU inference: nim-gke and nimble-oke, the same NVIDIA NIM kit on two clouds. Apps and decisions: venture-signal and fibonacci-calculator."/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/agents.svg"/><img width="400" align="top" src="assets/agents.svg" alt="Agents and evals: cards for memvet in Go, septdrift in Swift, and paper-forge-engine in Python. The text below summarizes each project with links."/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/system-map.svg"/><img width="400" align="top" src="assets/system-map.svg" alt="System map with five groups. Agents and evals: memvet, installed by homebrew-tap; septdrift; paper-forge-engine. GPU inference: nim-gke and nimble-oke, the same NVIDIA NIM kit on two clouds. Apps and decisions: venture-signal and fibonacci-calculator. Research: research-one-loop-two-ledgers. Demo kits: jib-ai-wingmate."/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/agents.svg"/><img width="400" align="top" src="assets/agents.svg" alt="Agents and evals: cards for memvet in Go, septdrift in Swift, and paper-forge-engine in Python. The text below summarizes each project with links."/></picture></p>
 
-The system map has three groups, one per project panel. Agents and evals:
+The system map has five groups, one per project panel. Agents and evals:
 [memvet](https://github.com/frankbesch/memvet), installed by
 [homebrew-tap](https://github.com/frankbesch/homebrew-tap);
 [septdrift](https://github.com/frankbesch/septdrift);
 [paper-forge-engine](https://github.com/frankbesch/paper-forge-engine). GPU
 inference: nim-gke and nimble-oke, the same NVIDIA NIM kit on two clouds.
-Apps and decisions: venture-signal and fibonacci-calculator.
+Apps and decisions: venture-signal and fibonacci-calculator. Research:
+research-one-loop-two-ledgers. Demo kits: jib-ai-wingmate.
 
 - [memvet](https://github.com/frankbesch/memvet): `go vet` for file-based AI agent state. Latest release: [v0.12.0](https://github.com/frankbesch/memvet/releases/tag/v0.12.0).
 - [septdrift](https://github.com/frankbesch/septdrift): catches drift in Apple Foundation Models behavior across macOS updates. 136 tests; measured once on two Macs: [receipt](https://github.com/frankbesch/septdrift/blob/main/docs/runs/2026-09-30-m4-vs-m1.txt).
@@ -34,7 +35,12 @@ Apps and decisions: venture-signal and fibonacci-calculator.
 - [nimble-oke](https://github.com/frankbesch/nimble-oke): NVIDIA NIM on Oracle Kubernetes Engine. GPU node autoscaling 0→1→0 on one A10, measured once: [receipt](https://github.com/frankbesch/nimble-oke/blob/main/docs/runs/2026-10-01-run-2-autoscale.md), [every attempt and posted cost](https://github.com/frankbesch/nimble-oke/blob/main/docs/runs/README.md).
 - [venture-signal](https://github.com/frankbesch/venture-signal): a local-first decision lab that keeps attractiveness separate from evidence strength.
 - [fibonacci-calculator](https://github.com/frankbesch/fibonacci-calculator): exact Fibonacci numbers as BigInt, in the browser and on the command line; 11 tests. [Live app](https://frankbesch.github.io/fibonacci-calculator/), [timing receipt](https://github.com/frankbesch/fibonacci-calculator/blob/main/docs/runs/2026-10-03-methods.txt).
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/research.svg"/><img width="400" align="top" src="assets/research.svg" alt="Research: a card for research-one-loop-two-ledgers in Python. The text below summarizes each project with links."/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/demo-kits.svg"/><img width="400" align="top" src="assets/demo-kits.svg" alt="Demo kits: a card for jib-ai-wingmate in Python. The text below summarizes each project with links."/></picture></p>
+
+- [research-one-loop-two-ledgers](https://github.com/frankbesch/research-one-loop-two-ledgers): a research study, in beta. One decision loop judged by its worst run on two synthetic ledgers, oil and gas partner bills and bank loan compliance certificates. On the oil and gas bills it let 0 silent errors through in 3 runs of 4 synthetic months: [receipt](https://github.com/frankbesch/research-one-loop-two-ledgers/blob/main/month/results/REPLICATION-RESULT-20261008.md).
+- [jib-ai-wingmate](https://github.com/frankbesch/jib-ai-wingmate): a demo kit, in beta. Texas drilling-permit packets to cited fields; reconcile rules check the money, and a named reviewer approves or routes each exception. Fixture mode only; scorer selftest 13 of 13 values reproduced: [receipt](https://github.com/frankbesch/jib-ai-wingmate/blob/main/tests/selftest/README.md).
 - Writing: 14 essays on AI, decision-making, and leadership at [Substack](https://frankbesch.substack.com). Start with [A 99% Accurate Model Can Still Be a Bad Decision](https://frankbesch.substack.com/p/accuracy-is-not-a-decision).
 - Stack: Go, TypeScript, Python, Swift; NVIDIA NIM, Helm, Kubernetes on GKE and OKE; paired evals, cost models, and run receipts.
 
-Each measured claim on this page links to its receipt. Panels v1.7 on Quoin v2.1, 2026-10-21.
+Each measured claim on this page links to its receipt. Panels v1.8 on Quoin v2.1, 2026-10-22.
