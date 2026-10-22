@@ -4,13 +4,16 @@
 
 <details><summary>Who I am, as text</summary>
 
-I lead, I sell, and I build. Recent hands-on work includes multi-agent AI
-systems with persistent memory, LLM evaluation and drift-testing harnesses,
-and governed demo pipelines, written in Go, Python, and Swift, plus NVIDIA NIM
-deployed on Kubernetes. In a pursuit, that lets me shape the solution with the
-delivery team and pressure-test it before an operator's CIO does. I decide
-where model judgment ends and deterministic code takes over, then back it with
-paired evals and a cost model before the client commits.
+Customers should see evidence before they commit. I lead teams and build the
+tools that produce it.
+
+Recent work: multi-agent systems with persistent memory, LLM evaluation and
+drift-testing harnesses, and governed demo pipelines, in Go, Python, and
+Swift, plus NVIDIA NIM on Kubernetes.
+
+I define value with the customer first. Paired evals and cost models then show
+where model judgment ends and deterministic code takes over. The customer
+decides whether the evidence supports committing.
 
 </details>
 
@@ -43,4 +46,4 @@ research-one-loop-two-ledgers. Demo kits: jib-ai-wingmate.
 - Writing: 14 essays on AI, decision-making, and leadership at [Substack](https://frankbesch.substack.com). Start with [A 99% Accurate Model Can Still Be a Bad Decision](https://frankbesch.substack.com/p/accuracy-is-not-a-decision).
 - Stack: Go, TypeScript, Python, Swift; NVIDIA NIM, Helm, Kubernetes on GKE and OKE; paired evals, cost models, and run receipts.
 
-Each measured claim on this page links to its receipt. Panels v1.8 on Quoin v2.1, 2026-10-22.
+Each measured claim on this page links to its receipt. Panels v1.9 on Quoin v2.1, 2026-10-22.
